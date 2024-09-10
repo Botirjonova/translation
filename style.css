@@ -1,0 +1,137 @@
+header {
+    background: #F3D7B7;
+}
+
+.header__wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 130px;
+}
+
+nav {
+    width: 400px;
+    display: flex;
+    align-items: center;
+   justify-content: space-around;
+   text-decoration: none;
+  
+}
+
+nav a{
+    text-decoration: none;
+    color: #333333;
+    font-family: roboto;
+}
+
+.banner__wrapper {
+    display: flex;
+    gap: 216px;
+}
+
+.banner__img {
+    position: relative;
+}
+
+.banner__logo {
+    position: absolute;
+    top: -2%;
+    left: -14%;
+}
+
+.banner__inf-block h1{
+    width: 447px;
+    font-weight: 700;
+    font-size: 64px;
+    font-family: roboto;
+}
+
+.banner__inf-block p{
+    width: 464px;
+    font-weight: 400;
+    font-size: 16px;
+    font-family: roboto;
+}
+
+.btn1{
+    width: 193px;
+    height: 51px;
+    background: #0A775F;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    font-family: roboto;
+}
+
+.h2{
+    text-align: center;
+    margin-top: 100px;
+    font-family: roboto;
+}
+
+.one{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image{
+    width: 451px;
+    height: 375px;
+    transition: 0.4s linear ;
+    
+}
+.image:hover{
+    transform: scale(1.2);
+}
+
+.image1:hover{
+    transform: scale(1.2);
+}
+.image1{
+    transition: 0.4s linear ;
+}
+
+.image2{
+    transition: 0.4s linear ;
+}
+.image3{
+    transition: 0.4s linear ;
+}
+.image2:hover{
+    transform: scale(1.2);
+}
+
+.image3:hover{
+    transform: scale(1.2);
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: #F3D7B7;
+    width: 1440px;
+    height: 160px;
+}
+
+
+
+.img11{
+  width: 250px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.class{
+    position: relative;
+    top: 70px;
+}
+
+
+.one h3{
+    font-family: roboto;
+}
+
+.one p{
+    font-family: roboto;
+}

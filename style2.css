@@ -1,0 +1,151 @@
+
+.header__wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 130px;
+    background: #F3D7B7;
+
+}
+
+nav {
+    width: 400px;
+    display: flex;
+    align-items: center;
+   justify-content: space-around;
+   text-decoration: none;
+  
+}
+
+nav a{
+    text-decoration: none;
+    color: #333333;
+    font-family: roboto;
+}
+
+
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.left1 h1{
+    width: 264px;
+    height: 85px;
+    font-family: roboto;
+}
+
+
+.left1 p{
+    width: 371px;
+    height: 85px;
+    padding-right: 100px;
+    font-family: roboto;
+}
+
+.right2 h1{
+    width: 388px;
+    height: 56px;
+    font-weight: 700;
+    font-size: 48px;
+    font-family: roboto;
+
+}
+
+.main{
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 200px;
+    margin: 100px;
+}
+
+.right2 p{
+    width: 646px;
+    height: 207px;
+    font-weight: 400;
+    font-size: 18px;
+    font-family: roboto;
+}
+
+.main2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main{
+    background-color: #fff;
+}
+
+main p{
+    color: #333333;
+    margin-top: 100px;
+    font-family: roboto;
+}
+
+
+.kopi{
+    margin-top: 250px;
+}
+
+.left3 h1{
+    width: 397px;
+    height: 118px;
+    font-weight: 700;
+    font-size: 50px;
+    color: #FFFFFF;
+    font-family: roboto;
+}
+
+.container{
+    background: #C99B67;
+    width: 1440px;
+    height: 510px;
+   
+
+}
+
+.divv{
+    background: #F3D7B7;
+
+}
+
+.left3 p{
+    width: 639px;
+    height: 150px;
+    font-weight: 400;
+    color: #FFFFFF;
+    font-size: 18px;    
+    font-family: roboto;
+}
+
+.img681{
+    position: absolute;
+    top: 1200px;
+   margin-left: 100px;
+}
+
+.left3{
+    padding-top: 100px;
+     gap: 50px;
+    padding-left: 50px;
+    font-family: roboto;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: #F3D7B7;
+    width: 1440px;
+    height: 160px;
+}
+
+.img11{
+    width: 250px;
+    display: flex;
+    justify-content: space-around;
+  }
